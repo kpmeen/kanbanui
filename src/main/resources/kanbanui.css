@@ -1,0 +1,52 @@
+body {
+    padding: 15px;
+}
+
+#buttonrow {
+    margin-bottom: 30px;
+}
+
+#buttonrow .btn {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#board {
+}
+
+.board-column-container {
+}
+
+.board-outer-column {
+}
+
+.board-column {
+    height: 500px;
+}
+
+.board-header {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: cadetblue;
+    border: 1px solid slategray;
+    border-radius: 4px;
+}
+
+.board {
+    padding: 10px;
+    background-color: whitesmoke;
+    border: 1px solid slategray;
+    border-radius: 4px;
+    height: inherit;
+}
+
+.task {
+}
+
+.task-title {
+    cursor: move;
+}
+
+.card-placeholder {
+    height: 20px;
+}
